@@ -1,2 +1,2 @@
 # Online-Bus-Booking-System
- HTML, CSS, PHP, MYSQL
+ HTML, CSS, javaScript, PHP, MYSQL
